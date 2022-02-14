@@ -7,7 +7,7 @@ All of our art was made by our team. Our game has at least three different sprit
 well as an animated character with a background and a particle effect.
 
 Code
-The game is playable with the keyboard. Our game has three signifigant mechanics from the original megaman game in the form of the base projectile, a charged shot, and 
+The game is playable with the keyboard. Our game has three significant mechanics from the original mega man game in the form of the base projectile, a charged shot, and 
 wall jumping.
 
 Tech
